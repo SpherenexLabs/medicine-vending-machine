@@ -5,14 +5,14 @@ import '../styles/Inventory.css';
 
 // Initialize Firebase if not already initialized
 const firebaseConfig = {
-  apiKey: "AIzaSyB9ererNsNonAzH0zQo_GS79XPOyCoMxr4",
-      authDomain: "waterdtection.firebaseapp.com",
-      databaseURL: "https://waterdtection-default-rtdb.firebaseio.com",
-      projectId: "waterdtection",
-      storageBucket: "waterdtection.firebasestorage.app",
-      messagingSenderId: "690886375729",
-      appId: "1:690886375729:web:172c3a47dda6585e4e1810",
-      measurementId: "G-TXF33Y6XY0"
+  apiKey: "AIzaSyAXHnvNZkb00PXbG5JidbD4PbRgf7l6Lgg",
+  authDomain: "v2v-communication-d46c6.firebaseapp.com",
+  databaseURL: "https://v2v-communication-d46c6-default-rtdb.firebaseio.com",
+  projectId: "v2v-communication-d46c6",
+  storageBucket: "v2v-communication-d46c6.firebasestorage.app",
+  messagingSenderId: "536888356116",
+  appId: "1:536888356116:web:c6bbab9c6faae7c84e2601",
+  measurementId: "G-FXLP4KQXWM"
 };
 
 // Check if Firebase is already initialized
